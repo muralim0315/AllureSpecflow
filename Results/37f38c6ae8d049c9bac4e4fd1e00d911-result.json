@@ -1,0 +1,98 @@
+{
+  "uuid": "4f420ecea183410ebbad5c0d24b757af",
+  "historyId": "Add two numbers",
+  "fullName": "Add two numbers",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "custom run title"
+    },
+    {
+      "name": "feature",
+      "value": "Calculator"
+    },
+    {
+      "name": "tag",
+      "value": "mytag"
+    }
+  ],
+  "links": [],
+  "name": "Add two numbers",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  the first number is 50",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076619,
+      "stop": 1650839076619
+    },
+    {
+      "name": "And  the second number is 70",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076619,
+      "stop": 1650839076619
+    },
+    {
+      "name": "When  the two numbers are added",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076619,
+      "stop": 1650839076619
+    },
+    {
+      "name": "Then  the result should be 120",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076619,
+      "stop": 1650839076619
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1650839076619,
+  "stop": 1650839076619
+}

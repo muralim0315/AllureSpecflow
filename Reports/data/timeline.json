@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "custom run title",
+    "children" : [ {
+      "name" : "NonParallelWorker",
+      "children" : [ {
+        "name" : "Add two numbers",
+        "uid" : "1908efd5a076303e",
+        "parentUid" : "0b9415fbd1b7ad142b1f28925e4c6f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650839076619,
+          "stop" : 1650839076619,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add three numbers",
+        "uid" : "89d7fde973d93dc1",
+        "parentUid" : "0b9415fbd1b7ad142b1f28925e4c6f18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650839076540,
+          "stop" : 1650839076569,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b9415fbd1b7ad142b1f28925e4c6f18"
+    } ],
+    "uid" : "afff3beb7eadd49de8d6e10f9e9c4ede"
+  } ]
+}

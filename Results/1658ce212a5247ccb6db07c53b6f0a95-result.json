@@ -1,0 +1,94 @@
+{
+  "uuid": "89cb62fd04b54b0ebfcb834fe921afd4",
+  "historyId": "Add three numbers",
+  "fullName": "Add three numbers",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "custom run title"
+    },
+    {
+      "name": "feature",
+      "value": "Calculator"
+    }
+  ],
+  "links": [],
+  "name": "Add three numbers",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  the first number is 60",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076553,
+      "stop": 1650839076569
+    },
+    {
+      "name": "And  the second number is 70",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076569,
+      "stop": 1650839076569
+    },
+    {
+      "name": "When  the two numbers are added",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076569,
+      "stop": 1650839076569
+    },
+    {
+      "name": "Then  the result should be 120",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1650839076569,
+      "stop": 1650839076569
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1650839076540,
+  "stop": 1650839076569
+}

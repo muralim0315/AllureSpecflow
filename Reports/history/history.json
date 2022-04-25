@@ -1,0 +1,40 @@
+{
+  "Add two numbers" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1908efd5a076303e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650839076619,
+        "stop" : 1650839076619,
+        "duration" : 0
+      }
+    } ]
+  },
+  "Add three numbers" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89d7fde973d93dc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650839076540,
+        "stop" : 1650839076569,
+        "duration" : 29
+      }
+    } ]
+  }
+}

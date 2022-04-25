@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowNunit", "SpecflowNunit\SpecflowNunit.csproj", "{F33E848A-E0C4-4F38-BA6A-13547C5ED0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33E848A-E0C4-4F38-BA6A-13547C5ED0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E848A-E0C4-4F38-BA6A-13547C5ED0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33E848A-E0C4-4F38-BA6A-13547C5ED0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E848A-E0C4-4F38-BA6A-13547C5ED0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15D9D86-04E4-4BBD-9593-634B4BBB986D}
+	EndGlobalSection
+EndGlobal

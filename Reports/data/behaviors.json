@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Calculator",
+    "children" : [ {
+      "name" : "Add three numbers",
+      "uid" : "89d7fde973d93dc1",
+      "parentUid" : "efa1a266ca6fa03c7ccf3f3f0190ae69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650839076540,
+        "stop" : 1650839076569,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Add two numbers",
+      "uid" : "1908efd5a076303e",
+      "parentUid" : "efa1a266ca6fa03c7ccf3f3f0190ae69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650839076619,
+        "stop" : 1650839076619,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "efa1a266ca6fa03c7ccf3f3f0190ae69"
+  } ]
+}
