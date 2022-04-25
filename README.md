@@ -7,3 +7,4 @@ open command prompt
 $ allure generate <results directory path>
 $allure  open <directory where the reports genrated>
 $allure serve <reslt directory>  -- This automatically genrates and opens the report
+$allure generate <result directory> -o <report directory>
